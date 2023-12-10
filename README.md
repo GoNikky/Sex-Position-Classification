@@ -14,4 +14,4 @@ To use the script, follow these steps:
 
 
 ## Acknowledgments
-The sex position classification script utilizes a pre-trained model developed by porntech on Hugging Face. You can find more information about the model and its author on their Hugging Face Model Hub page (https://huggingface.co/porntech/sex-position/tree/main).
+The sex position classification script utilizes a pre-trained model developed by porntech on Hugging Face. You can find more information about the model and its author on their Hugging Face Model Hub page (https://huggingface.co/porntech/sex-position).
