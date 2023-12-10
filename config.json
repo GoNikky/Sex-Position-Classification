@@ -1,0 +1,26 @@
+{
+  "architecture": "resnet50",
+  "num_classes": 8,
+  "pretrained_cfg": {
+    "tag": "sex-position",
+    "input_size": [
+      3,
+      224,
+      224
+    ],
+    "crop_mode": "center",
+    "mean": [
+      0.485,
+      0.456,
+      0.406
+    ],
+    "std": [
+      0.229,
+      0.224,
+      0.225
+    ],
+    "num_classes": 8
+  },
+  "label_names": ["blowjob", "hardcore", "titjob", "handjob", "pussy-licking", "fingering", "other", "solo"],
+  "label_descriptions": {"blowjob": "blowjob", "hardcore": "hardcore", "titjob": "titjob", "handjob": "handjob", "pussy-licking": "pussy-licking", "fingering": "fingering", "other":"other", "solo": "solo"}
+}
