@@ -1,5 +1,5 @@
 ## Description
-This repository contains a Python script for detecting different sex positions in a video stream using a pre-trained image classification model. Eight classes are supported: ["blowjob", "hardcore", "titjob", "handjob", "pussy-licking", "fingering", "other", "solo"]. The result is published to an MQTT server whenever the detected class changes.
+This repository contains a Python script for detecting different sex positions in a video stream using porntechs pre-trained image classification model. Eight classes are supported: ["blowjob", "hardcore", "titjob", "handjob", "pussy-licking", "fingering", "other", "solo"]. The result is published to an MQTT server whenever the detected class changes.
 
 
 ## Usage
